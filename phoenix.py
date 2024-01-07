@@ -6,5 +6,5 @@ st.write("""
 Hello *world!*
 """)
  
-df = pd.read_csv("my_data.csv")
+df = pd.read_csv("https://github.com/aumhope/3030hope/blob/main/business-operations-survey-2022-information-and-communications-technology.csv")
 st.line_chart(df)
